@@ -387,6 +387,10 @@ h6 {
   cursor: pointer;
 }
 
+.github-link {
+  font-size: 30px;
+}
+
 .close {
   color: #aaaaaa;
   float: right;
